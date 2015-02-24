@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": ";AACA,EAAE;EACD,KAAK,EAAE,GAAG;;AAEX,IAAI;EACH,gBAAgB,EAAE,KAAK",
+"sources": ["playground.sass"],
 "names": [],
 "file": "playground.css"
 }
